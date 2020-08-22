@@ -4,8 +4,6 @@
 
 Meu primeiro contato com Python foi essa série de aulas da [LabHacker Câmara dos Deputados](http://labhackercd.leg.br/) que cursei em abril/maio de 2019. Tive a oportunidade de conhecer o Anaconda, Jupyter Notebook, e esse mundo de análise de dados além do SQL.
 
-Com alguns conhecimentos a mais, em mai/2020, irei incluir algumas novas análises além do que foi ministrado no curso, utilizando Google Colab.
-
 Aulas do curso:
 
 * [Aula 01](https://youtu.be/W_Bz7M91R1Q)
